@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bb264cd-27cd-4781-94e4-38f7ed6fe12c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.1\repo" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1scgeqGdx2D2YH6gNNEvPC2LTz4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\java29\maven" />
+      <recent name="D:\code\java29\maven\target" />
+      <recent name="D:\code\java29\maven\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lemon" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lemon.day12.homework" />
+      <recent name="com.lemon.day12.dataproviders" />
+      <recent name="com.lemon.day11.homework" />
+      <recent name="com.lemon.day010.homework" />
+      <recent name="com.lemon.day09.homework" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\java29\maven" />
+      <recent name="D:\code\java29\maven\src\test\java\com\lemon\day11\testng" />
+      <recent name="D:\code\java29\maven\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.exam">
+    <configuration name="exam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lemon.exam.exam" />
+      <module name="maven_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lemon.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProvideHomework.register" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lemon.day12.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lemon.day12.homework" />
+      <option name="MAIN_CLASS_NAME" value="com.lemon.day12.homework.DataProvideHomework" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProvideHomework.register2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lemon.day12.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lemon.day12.homework" />
+      <option name="MAIN_CLASS_NAME" value="com.lemon.day12.homework.DataProvideHomework" />
+      <option name="METHOD_NAME" value="register2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGDataProvider2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lemon.day12.dataproviders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lemon.day12.dataproviders" />
+      <option name="MAIN_CLASS_NAME" value="com.lemon.day12.dataproviders.TestNGDataProvider2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNgHomework.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven_base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lemon.day12.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lemon.day12.homework" />
+      <option name="MAIN_CLASS_NAME" value="com.lemon.day12.homework.TestNgHomework" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.exam" />
+        <item itemvalue="TestNG.TestNgHomework.test" />
+        <item itemvalue="TestNG.DataProvideHomework.register2" />
+        <item itemvalue="TestNG.DataProvideHomework.register" />
+        <item itemvalue="TestNG.TestNGDataProvider2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bb264cd-27cd-4781-94e4-38f7ed6fe12c" name="Default Changelist" comment="" />
+      <created>1621177389311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621177389311</updated>
+      <workItem from="1621177392840" duration="5038000" />
+      <workItem from="1621342317637" duration="9095000" />
+      <workItem from="1621433000955" duration="2540000" />
+      <workItem from="1621517537343" duration="7381000" />
+      <workItem from="1621772748648" duration="10117000" />
+      <workItem from="1621858788346" duration="3698000" />
+      <workItem from="1621953357879" duration="866000" />
+      <workItem from="1622037043468" duration="620000" />
+      <workItem from="1622128680586" duration="1326000" />
+      <workItem from="1622475741770" duration="595000" />
+      <workItem from="1623082210808" duration="1393000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1621343399618">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1621343399618" />
+    <state x="397" y="42" key="#com.intellij.ide.util.MemberChooser" timestamp="1621783872575">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="397" y="42" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1621783872575" />
+    <state x="323" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1621343864575">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="323" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1621343864575" />
+    <state x="425" y="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1621343869248">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="425" y="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1621343869248" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1623083025473">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1623083025473" />
+    <state width="1237" height="103" key="GridCell.Tab.0.bottom" timestamp="1621953511836">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="103" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1621953511836" />
+    <state width="1237" height="103" key="GridCell.Tab.0.center" timestamp="1621953511836">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="103" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1621953511836" />
+    <state width="1237" height="103" key="GridCell.Tab.0.left" timestamp="1621953511835">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="103" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1621953511835" />
+    <state width="1237" height="103" key="GridCell.Tab.0.right" timestamp="1621953511836">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="103" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1621953511836" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1623083606703">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1623083606703" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1622864704478">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1622864704478" />
+    <state x="236" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1621777988648">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="236" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1621777988648" />
+    <state x="0" y="0" width="638" height="680" key="find.popup" timestamp="1621772759780">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="638" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1621772759780" />
+  </component>
+</project>

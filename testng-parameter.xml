@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--约束文件，跟标签和子标签有什么，点击后有提示-->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--项目，最大的套件-->
+<suite name="All Test Suite">
+    <!--    可以有多个test，name不能一样，有不同的class，可以划分不同的模块，或者当作某个接口-->
+    <test verbose="2" preserve-order="true" name="D:\code\java29\maven\src\test\java\com\lemon\day12\dataproviders">
+        <!--        测试类，一般不会写method的标签，没太大的作用，不写时会测试带Test的方法-->
+        <classes>
+<!--            如果parameter时放在class下面，针对的是class文件，而且优先级更高，参数的名字要和@Parameters注解里的参数名一样-->
+            <class name="com.lemon.day12.dataproviders.TestNGParameter">
+                <parameter name="type" value="chrome"></parameter>
+                <parameter name="version" value="80"></parameter>
+            </class>
+            <class name="com.lemon.day12.dataproviders.TestNGParameter2">
+                <parameter name="type" value="firefox"></parameter>
+                <parameter name="version" value="60"></parameter>
+            </class>
+        </classes>
+    </test>
+<!--        放在外面的是共有的传参，优先级较低-->
+        <parameter name="type" value="ie"></parameter>
+        <parameter name="version" value="11"></parameter>
+</suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--约束文件，跟标签和子标签有什么，点击后有提示-->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--项目，最大的套件-->
+<suite name="All Test Suite">
+    <!--    可以有多个test，name不能一样，有不同的class，可以划分不同的模块，或者当作某个接口-->
+    <test verbose="2" preserve-order="true" name="D:/code/java29/maven/src/test/java/com/lemon/day11/homework">
+        <!--        测试类，一般不会写method的标签，没太大的作用，不写时会测试带Test的方法-->
+        <classes>
+            <class name="com.lemon.day11.homework.TestNg1">
+                <methods>
+                    <!--                    <include name="testBeforeSuite"/>-->
+                </methods>
+            </class>
+            <class name="com.lemon.day11.homework.TestNg2"/>
+            <class name="com.lemon.day11.homework.TestNGDemo"/>
+        </classes>
+    </test>
+</suite>
+
+        <!--从上往下运行-->
